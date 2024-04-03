@@ -14,7 +14,7 @@ didnt get enough of any valuable reasons to do so because i can get the work don
 ## Usage
 
 1. **Clone the Repository**: Clone the Paper Perspective repository to your local machine:
-2. git clone https://github.com/yourusername/PaperPerspective.git
+2. git clone https://github.com/ritikonboard/PaperPerspective.git
 
 2. **Navigate to the Directory**: Go to the Paper Perspective directory: cd PaperPerspective
 4.  **Run the Python Script**: python PaperPerspective.py
